@@ -10,6 +10,7 @@ namespace SimpleConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Console App World!");
         }
     }
 }
